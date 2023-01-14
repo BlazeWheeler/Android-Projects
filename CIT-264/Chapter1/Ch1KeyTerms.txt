@@ -1,0 +1,31 @@
+Blaze Wheeler 2022
+Android Boot Camp For Developers Using JAVA 
+Chapter 1: Key Terms
+
+
+Define the keywords below to the best of your ability using chapter 1.
+ 
+Android project view —  a view in android studio that shows a flattened version of a projects overall structure that gives you easy and quick access to the the projects source files 
+
+Android Studio — a IDE or integrated development environment designed for the building of projects for Googles Android Operating System. Created on JetBrains’ IntelliJ IDEA software.
+
+Android Virtual Device (AVD) — a configurations that  creates the characteristics of an Android phone, tablet, Wear Os, Android TV, or Automotive Device that needs to be simulated in the Android Emulator.
+
+AndroidManifest.xml — Every Android App Project must have an AndroidManifest.xml file. The manifest file includes the essential info about Android build tools, the Android os, and Google Play.
+
+app —  a app or mobile application is a software application designed to run on an mobile device such as a phone, tablet, watch etc.
+
+Component Tree —  a component tree represents a library of components that can be added to sets or flows that specify a test instance. A Component contains lines of code that perform a unique functional action.
+
+emulator — an emulator is software that allows a computer system to behave in the manner of another system such as a phone, tablet, or tv.
+
+Google Play— Google play previously know as Android Market is a digital store offered by goole to buy and sell applications designed for Googles Android operating systems.
+
+Java — java is a class based object oriented programing language that runs on over 1 billion devices 
+
+
+java folder —  a java folder contains all java source code created during app development including test files.
+
+layout — a layout defines the visual structure of a user interface like the user interface of an app or widget.
+
+manifests folder — an xml file generated inside of manifest folder created in every android studio project 

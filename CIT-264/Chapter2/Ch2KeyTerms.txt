@@ -1,0 +1,42 @@
+Blaze Wheeler 2022
+Android Boot Camp For Developers Using JAVA 
+Chapter 2: Key Terms
+
+
+Define the keywords below to the best of your ability using chapter 2
+
+Activity — a representation of a single screen of the user interface
+
+Android Manifest — a file that describes information about the android projects build tool, operating system and google play.
+
+Class — a class is a set of objects that share common structure and behavior in java
+
+Event handler — a function containing code to respond to a specific event 
+
+ImageView control — used to display images in android applications 
+
+Import — allows classes to be used throughout the whole program
+
+Import statement — a statement that allows the specific functions to be available throughout the program 
+
+Instantiate — the creation of an object within a class 
+
+Intent — code within the android manifest file that requests an action from another component 
+
+Linear layout — a view grouping that aligns children components in a single direction
+
+Method — lines of java statements in inside of a java class that can be called to do certain tasks
+
+Method body — the defining code of a method that creates the methods actual purpose 
+
+Object — a defined concrete instantiation of a class 
+
+Pascal case — text that follows the rules of capitalization at the start of text and uppercase letters at the start of each new word 
+
+Relative layout — the default layer of the emulator that can arrange different components in relation to each other 
+
+setContentView — java code that creates the contents of a specific screen
+
+sp — a unit of measurement called Scale - independent pixels
+
+Stub — a place holder of the decoration of  itself 
