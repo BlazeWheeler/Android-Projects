@@ -1,0 +1,3 @@
+<resources>
+    <string name="app_name">BillApp</string> <string-array name="quality"> <item>Excellent</item> <item>Average</item> <item>Poor</item> </string-array>
+</resources>

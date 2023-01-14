@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Piggy Bank</string>
+     <string-array name="spendingSaving"> <item>Spending</item> <item>Saving</item>  </string-array>
+</resources>

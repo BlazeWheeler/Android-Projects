@@ -1,0 +1,40 @@
+Blaze Wheeler 2022
+Android Boot Camp For Developers Using JAVA 
+Chapter 3: Key Terms
+
+
+Define the keywords below to the best of your ability using chapter 3.
+
+	DecimalFormat— sub class of NumberFormat that formats decimal numbers
+
+	Entries— spinner property that connects string arrays to spinner control for display purposes 
+
+	Final— variables that can only be initialized one and cannot be changed 
+
+	GetSelectedItem( )— method for returning the text of spinner items 
+
+	GetText( )— method for reading text that is stored inside an EditText control 
+
+	Hint—a description of a field in the TextField control 
+
+	Item— a string of text located in a spinner control that appears in a list component for the user to select 
+
+	Localization— using a string table to change text pertaining to the users preferred language 
+
+	Parse— converting variables like an integer to a string format 
+
+	Prompt— displayed instructions 
+
+	Soft keyboard— an on screen keyboard that appears inside an application 
+
+	Spinner control—  widget that is similar to a drop down 
+
+	String— a group of characters that can include spaces 
+
+	String array— a group of different strings 
+
+	Strings.xml— a file that is included in all android applications which contains common strings inside the application 
+
+	Theme— the overall style of an application or part of an application 
+
+	Variable—a variable contains data that can change throughout the execution of the program 
