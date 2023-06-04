@@ -48,7 +48,7 @@ Welcome to Smart Mirror!
 Android application developed using Java in Android Studio. SmartMirror is a versatile and interactive app that brings the functionalities of a smart mirror to your Android device. With its sleek and intuitive design, this app offers a range of features to enhance your daily routine.
 
 
-![App Preview](Images/SmartMirrorIcon.jpg)
+![App Preview](Images/SmartMIrrorIcon.jpg)
 
 
 
