@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="top"
+    android:background="@drawable/mountainbackgroudn"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:textAlignment="center"
+        android:layout_marginTop="30dp"
+        android:layout_centerHorizontal="true"
+        android:textSize="50sp"
+        android:id="@+id/localTime"
+        android:fontFamily="@font/latomedium"
+        android:textColor="@color/white"
+        />
+
+
+    <AnalogClock
+
+
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_below="@+id/localTime"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="-850dp"
+        android:id="@+id/analogClock"
+        android:backgroundTint="@color/white"
+
+        />
+
+    <DigitalClock
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/analogClock"
+        android:layout_marginTop="15dp"
+        android:layout_centerHorizontal="true"
+        android:textSize="40sp"
+        android:textStyle="bold|italic"
+        android:id="@+id/digitalClock"
+        android:fontFamily="@font/latolight"
+        android:textColor="@color/white"
+
+        />
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/digitalClock"
+        >
+
+        <ImageView
+            android:id="@+id/weatherIcon"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            />
+
+        <TextView
+            android:id="@+id/currentWeather"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="100dp"
+            android:textAlignment="center"
+            android:textSize="40sp"
+            android:fontFamily="@font/latolight"
+            android:textColor="@color/white"
+            />
+        <TextView
+            android:id="@+id/weatherViewTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_alignLeft="@id/currentWeather"
+            android:layout_marginTop="150dp"
+            android:textAlignment="center"
+            android:textSize="20sp"
+            android:fontFamily="@font/latolight"
+            android:textColor="@color/white" />
+
+        <ImageView
+            android:id="@+id/weatherIcon1"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="130dp"
+            android:layout_marginTop="10dp"
+
+            />
+
+        <TextView
+            android:id="@+id/Hour1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="130dp"
+            android:layout_alignLeft="@id/currentWeather"
+            android:layout_marginTop="100dp"
+            android:textAlignment="center"
+            android:textSize="40sp"
+            android:fontFamily="@font/latolight"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:id="@+id/weatherViewTime1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="130dp"
+            android:layout_alignLeft="@id/currentWeather"
+            android:layout_marginTop="150dp"
+            android:textAlignment="center"
+            android:textSize="20sp"
+            android:fontFamily="@font/latolight"
+            android:textColor="@color/white" />
+
+        <ImageView
+            android:id="@+id/weatherIcon2"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="250dp"
+            android:layout_marginTop="10dp"
+
+            />
+
+        <TextView
+            android:id="@+id/Hour2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="250dp"
+            android:layout_alignLeft="@id/currentWeather"
+            android:layout_marginTop="100dp"
+            android:textAlignment="center"
+            android:textSize="40sp"
+            android:fontFamily="@font/latolight"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:id="@+id/weatherViewTime2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="250dp"
+            android:layout_alignLeft="@id/currentWeather"
+            android:layout_marginTop="150dp"
+            android:textAlignment="center"
+            android:textSize="20sp"
+            android:fontFamily="@font/latolight"
+            android:textColor="@color/white" />
+
+        <ImageView
+            android:id="@+id/weatherIcon3"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="370dp"
+            android:layout_marginTop="10dp"
+            />
+
+
+        <TextView
+            android:id="@+id/Hour3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="370dp"
+            android:layout_alignLeft="@id/currentWeather"
+            android:layout_marginTop="100dp"
+            android:textAlignment="center"
+            android:textSize="40sp"
+            android:fontFamily="@font/latolight"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:id="@+id/weatherViewTime3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="370dp"
+            android:layout_alignLeft="@id/currentWeather"
+            android:layout_marginTop="150dp"
+            android:textAlignment="center"
+            android:textSize="20sp"
+            android:fontFamily="@font/latolight"
+            android:textColor="@color/white" />
+
+        <ImageView
+            android:id="@+id/weatherIcon4"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="490dp"
+            android:layout_marginTop="10dp"
+
+            />
+
+        <TextView
+            android:id="@+id/Hour4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="490dp"
+            android:layout_alignLeft="@id/currentWeather"
+            android:layout_marginTop="100dp"
+            android:textAlignment="center"
+            android:textSize="40sp"
+            android:fontFamily="@font/latolight"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:id="@+id/weatherViewTime4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="490dp"
+            android:layout_alignLeft="@id/currentWeather"
+            android:layout_marginTop="150dp"
+            android:textAlignment="center"
+            android:textSize="20sp"
+            android:fontFamily="@font/latolight"
+            android:textColor="@color/white" />
+
+
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/headline1"
+        android:layout_width="500dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+
+        android:layout_marginTop="600dp"
+        android:textAlignment="center"
+        android:textSize="25sp"
+        android:fontFamily="@font/latobold"
+        android:textColor="@color/white" />
+    <TextView
+        android:id="@+id/headline2"
+        android:layout_width="500dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_below="@id/headline1"
+        android:layout_marginTop="10dp"
+        android:textAlignment="center"
+        android:textSize="25sp"
+        android:fontFamily="@font/latobold"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/headline3"
+        android:layout_width="500dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_below="@id/headline2"
+        android:layout_marginTop="10dp"
+        android:textAlignment="center"
+        android:textSize="25sp"
+        android:fontFamily="@font/latobold"
+        android:textColor="@color/white" />
+    <TextView
+        android:id="@+id/headline4"
+        android:layout_width="500dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_below="@id/headline3"
+        android:layout_marginTop="10dp"
+        android:textAlignment="center"
+        android:textSize="25sp"
+        android:fontFamily="@font/latobold"
+        android:textColor="@color/white" />
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:textAlignment="center"
+        android:textSize="10sp"
+        android:textStyle="bold|italic"
+        android:id="@+id/coordinates" />
+
+
+
+
+</RelativeLayout>
