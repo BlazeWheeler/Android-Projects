@@ -58,7 +58,7 @@ Android application developed using Java in Android Studio. SmartMirror is a ver
 
 ### Built With
 
-This Application is built natively with Swift & SwiftUI
+This Application is built natively with Java & Android Studio
 
 * [![MacOs][MacOs]][MacOS-url]
 * [![Android-Studio][Android-Studio]][Android-Studio-url]
