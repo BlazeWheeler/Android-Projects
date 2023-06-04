@@ -23,8 +23,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/BlazeWheeler/Swift_Projects/">
-    <img src="Images/BioBotIcon.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/BlazeWheeler/Android-Projects/">
+    <img src="Images/SmartMIrrorIcon.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Smart Mirror</h3>
@@ -48,7 +48,7 @@ Welcome to Smart Mirror!
 Android application developed using Java in Android Studio. SmartMirror is a versatile and interactive app that brings the functionalities of a smart mirror to your Android device. With its sleek and intuitive design, this app offers a range of features to enhance your daily routine.
 
 
-![App Preview](Images/SmartMIrrorIcon.jpg)
+![App Preview](Images/)
 
 
 
