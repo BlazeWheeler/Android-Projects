@@ -78,8 +78,8 @@ Getting started is fairly simple...
 
 
 * Install Android Studio
-* Configure Weather Api at [Open-Meto](https://open-meteo.com/) 
-* Generate NewsAPI Key: at [NewsAPI](https://newsapi.org/) 
+* Configure Weather Api: [Open-Meto](https://open-meteo.com/) 
+* Generate NewsAPI Key: [NewsAPI](https://newsapi.org/) 
 * Download repository 
 * Enter longitude and  latitude 
   ```sh
@@ -116,7 +116,7 @@ Getting started is fairly simple...
 
 # Released Under MIT License
 
-Copyright (c) 2022 Blaze Wheeler,
+Copyright (c) 2023 Blaze Wheeler,
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
