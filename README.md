@@ -1,4 +1,4 @@
-!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+
 <a name="readme-top"></a>
 
 
@@ -107,18 +107,6 @@ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-# Released Under ASPL License
-
-Copyright (c) 2022 Blaze Wheeler, 1999-2007 Apple Inc.  
-All Rights Reserved.
-
-Subject to the licenses granted under this License, each Contributor retains all rights, title and interest in and to any Modifications made by such Contributor.  Apple retains all rights, title and interest in and to the Original Code and any Modifications made by or on behalf of Apple ("Apple Modifications"), and such Apple Modifications will not be automatically subject to this License.  Apple may, at its sole discretion, choose to license such Apple Modifications under this License, or on different terms from those contained in this License or may choose not to license them at all.  
-
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
-
-The Original Code and all software distributed under the License are distributed on an 'AS IS' basis, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, AND APPLE HEREBY DISCLAIMS ALL SUCH WARRANTIES, INCLUDING WITHOUT LIMITATION, ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, QUIET ENJOYMENT OR NON-INFRINGEMENT.  Please see the License for the specific language governing rights and limitations under the License." 
- <a href="http://www.opensource.apple.com/apsl/"> Apple ASPL License</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
