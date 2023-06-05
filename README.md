@@ -42,11 +42,10 @@
 ## About The Repository
 Welcome to My Android Projects!
 
-This repository contains a collection of Swift projects. Each project includes a detailed README file with instructions on how to build and run the code. All of the code is open source and available for you to use and modify as you see fit. Happy coding!
-
+Welcome to the Android Projects Showcase repository! This GitHub repository serves as a comprehensive collection of Android projects developed using Android Studio. It features a diverse range of projects, including personal undertakings and university course assignments, implemented using both Java and Kotlin programming languages. All Projects are open source. Happy coding!
 
 <!-- Change  -->
-![App Preview](Images/AppPreview.png)
+![App Preview](Images/androidRepoPreview.png)
 
 
 
