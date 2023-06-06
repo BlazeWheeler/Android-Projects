@@ -132,7 +132,7 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 
 - University: <a href="https://www.ccac.edu">The Community College of Allegheny County </a>
-- Text: Corinne Hoisington, Android Boot Camp for Developers Using Java, Third Edition. Course Technology | Cengage Learning, 2016, ISBN-13: 9781305857995.
+- Text: <a href="https://www.cengage.com/c/android-boot-camp-for-developers-using-java-a-guide-to-creating-your-first-android-apps-3e-hoisington/9781305857995PF/Corinne "/> Hoisington, Android Boot Camp for Developers Using Java, Third Edition. Course Technology | Cengage Learning, 2016, ISBN-13: 9781305857995.
 - Author: <a href="https://professorcorinne.com/about-me/">Corinne Hoisington</a>
 - Professor: <a href="https://www.linkedin.com/in/mel-tomeo-ph-d-37546710/">Mel Tomeo</a>
 - Course: <a href="https://catalog.ccac.edu/preview_course_nopop.php?catoid=10&coid=19234">CIT-264</a>
