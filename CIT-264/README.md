@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/BlazeWheeler/Swift_Projects">
-    <img src="Images/Android-Logo.png" alt="Logo" width="80" height="80">
+    <img src="Images/ccac.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">BlazeWheeler/Android-Projects/CIT-245</h3>
