@@ -13,11 +13,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/BlazeWheeler/Swift_Projects">
+  <a href="https://github.com/BlazeWheeler/Android-Projects">
     <img src="Images/ccac.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">BlazeWheeler/Android-Projects/CIT-245</h3>
+  <h3 align="center">BlazeWheeler/Android-Projects/CIT-264</h3>
 
   <p align="center">
     Repository of Android Programming Challenges
@@ -30,7 +30,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Repository
-Welcome to My Android Projects!
+MOBILE APPS PROGRAMMING USING ANDROID!
 
 This repository contains a collection of programming challenges designed to test and improve the skills of developers. The challenges are focused on Java, the primary programming language used in Android development.
 <br>
@@ -44,7 +44,7 @@ This repository contains a collection of programming challenges from Android&tra
 
 
 <!-- Change  -->
-![App Preview](Images/AppPreview.png)
+![App Preview](Images/cit264Preview.png)
 
 
 
